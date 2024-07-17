@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>HelloRevit</Name>
+		<FullClassName>Revit_API.HelloRevit</FullClassName>
+		<Text>HelloRevit</Text>
+		<Description>Show Hello World.</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>C:\Users\Ni3\Desktop\ASP.NET\.NET CLASS\Revit API Assignments\Revit_Api_Assignment\HelloRevit\bin\Debug\HelloRevit.dll</Assembly>
+		<AddInId>351A57A1-D3FB-4BD4-8E8A-6A2B452B5C56</AddInId>
+		<VendorId>ADSK</VendorId>
+		<VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>

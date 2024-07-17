@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>TaskDailog</Name>
+		<FullClassName>Revit_API.TaskDailog</FullClassName>
+		<Text>TaskDailog</Text>
+		<Description>TaskDialog,Button</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>C:\Users\Ni3\Desktop\ASP.NET\.NET CLASS\Revit API Assignments\Revit_Api_Assignment\TaskDailog\bin\Debug\TaskDailog.dll</Assembly>
+		<AddInId>EA70269F-D2B3-4EF2-991F-568C9D5D74C4</AddInId>
+		<VendorId>ADSK</VendorId>
+		<VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+	</AddIn>
+</RevitAddIns>
